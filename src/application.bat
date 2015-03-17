@@ -1,4 +1,11 @@
-### application.bat - 201x - THOMASSET ###
-echo "Copyright company - 201x"
-echo "Build : 10:10"
-echo "version 1.1"
+### application.bat - 201x - votre nom ###
+
+version = "2"
+
+build_hour = "11H00"
+
+
+
+echo "Build ${build_hour}"
+
+echo "version ${version}"
